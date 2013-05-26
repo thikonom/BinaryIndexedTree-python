@@ -3,7 +3,8 @@ a table of values.
 It supports the following operations in _**O(logn)**_ time:
   - **Set(i, x)**: sets the value of the i-th item equal to x
   - **Sum(i)**: sums all the items from 1 to i
-                                                      
-##### Useful resources:                                                                                                       
+                          
+
+###### Useful resources:    
 http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binaryIndexedTrees                                       
 http://www.stanford.edu/class/cs97si/03-data-structures.pdf (page 25)
