@@ -5,6 +5,6 @@ It supports the following operations in _**O(logn)**_ time:
   - **Sum(i)**: sums all the items from 1 to i
                           
 
-###### Useful resources:    
+###### Useful resources/Further reading:    
 http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binaryIndexedTrees                                       
 http://www.stanford.edu/class/cs97si/03-data-structures.pdf (page 25)
