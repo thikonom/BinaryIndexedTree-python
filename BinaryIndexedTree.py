@@ -7,7 +7,7 @@ class BinaryIndexedTree(object):
         """
         Updates the value of index idx to val.
         """
-        while (idx < self.sz):
+        while idx <= self.sz:
             self.tree[idx] += val
             idx += (idx & -idx)
 
