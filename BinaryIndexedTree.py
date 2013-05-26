@@ -1,6 +1,6 @@
 class BinaryIndexedTree(object):
-    def __init__(self, num_nodes):
-        self.sz = num_nodes
+    def __init__(self, max_val):
+        self.sz = max_val
         self.tree = [0]*(self.sz + 1)
 
     def Set(self, idx, val):
